@@ -1,0 +1,134 @@
+21 
+Cans 0
+CardboardBox 1
+CD 0
+PlasticJugs 0
+Balloon 0
+RubberBands 0 
+String 1
+Dowel 0 
+Stick 1
+Ruler 1 
+PopsicleSticks 0
+Toothpick 0
+Paper 1
+Sharpie 0
+Pencil 1
+Sissors 1
+BoxCutter 0
+PushPin 0
+GlueGun 1
+Tape 0
+Glue 1
+
+
+
+
+
+
+Lacks: dimensions of materials / conditions of materials, replacements (glue instead of tape)
+
+
+
+
+--------------------Potential Inputs
+Plastic Jug actives: 
+Cans 0
+CardboardBox 0
+CD 0
+PlasticJugs 1
+Balloon 0
+RubberBands 0 
+String 0
+Dowel 0 
+Stick 0
+Ruler 0 
+PopsicleSticks 0
+Toothpick 0
+Paper 0
+Sharpie 1
+Pencil 0
+Sissors 1
+BoxCutter 0
+PushPin 1
+GlueGun 0
+Tape 0
+Glue 0
+
+
+
+
+Nothing:
+Cans 0
+CardboardBox 0
+CD 0
+PlasticJugs 0
+Balloon 0
+RubberBands 0 
+String 0
+Dowel 0 
+Stick 0
+Ruler 0 
+PopsicleSticks 0
+Toothpick 0
+Paper 0
+Sharpie 0
+Pencil 0
+Sissors 0
+BoxCutter 0
+PushPin 0
+GlueGun 0
+Tape 0
+Glue 0
+
+
+
+
+CD car: 4CDs, 4 Paper, 1 Tape, 1 Pencil, 1 Glue Gun, 1 Stick, 3 Rubber Bands
+
+
+Cans 0
+CardboardBox 0
+CD 4
+PlasticJugs 0
+Balloon 0
+RubberBands 3 
+String 0
+Dowel 0 
+Stick 1
+Ruler 0 
+PopsicleSticks 0
+Toothpick 0
+Paper 4
+Sharpie 0
+Pencil 1
+Sissors 0
+BoxCutter 0
+PushPin 0
+GlueGun 1
+Tape 1
+Glue 0
+
+
+Cardboard actives: 1 cardboard box, 1 glue gun, 1 ruler, 1 scissors, 1 string, 1 stick, 1 paper, 
+Cans 0
+CardboardBox 1
+CD 0
+PlasticJugs 0
+Balloon 0
+RubberBands 0 
+String 1
+Dowel 0 
+Stick 1
+Ruler 1 
+PopsicleSticks 0
+Toothpick 0
+Paper 1
+Sharpie 0
+Pencil 1
+Sissors 1
+BoxCutter 0
+PushPin 0
+GlueGun 1
+Tape 0
+Glue 1
